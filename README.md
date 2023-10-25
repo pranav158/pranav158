@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav158&label=Profile%20views&color=0e75b6&style=flat" alt="pranav158" /> </p>
 
-- 🔭 I’m currently working on [ᴛʜᴇᴄʏʙᴇʀᴍɪɴᴅꜱ](https://thecyberminds.com/)
+- 🔭 I’m currently working on [EDUNEXA TECH](https://edunexa.tech/)
 
 - 🌱 I’m currently learning **ꜱᴡɪꜰᴛ, ʀᴇᴀᴄᴛ, & ᴘʜᴘ**
 
-- 🤝 I’m looking for help with [ᴛʜᴇᴄʏʙᴇʀᴍɪɴᴅꜱ](https://thecyberminds.com/)
+- 🤝 I’m looking for help with [EDUNEXA TECH](https://edunexa.tech/)
 
 - 👨‍💻 All of my projects are available at [https://itspranav.me/](https://itspranav.me/)
 
