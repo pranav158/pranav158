@@ -1,6 +1,16 @@
-<a href="https://github.com/pranav158">
-<img alt="header_mystic" src="./assets/header_mystic.svg" />
-</a>
+<div align="center">
+
+<img src="./assets/white_512.svg" width="100" />
+
+# MYSTIC
+
+### Exploring systems beyond the surface.
+
+`DEVELOPMENT` • `SECURITY` • `AUTOMATION` • `INFRASTRUCTURE`
+
+</div>
+
+
 <br>
 <br>
 
